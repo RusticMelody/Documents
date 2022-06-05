@@ -1,0 +1,27 @@
+*{
+  font-family:monospace;
+}
+a:link {
+  color: orange;
+}
+a:visited {
+  color: yellow;
+}
+a:hover {
+  color: pink;
+}
+#Biography {
+  text-align: center;
+}
+#Links {
+  text-align: center;
+}
+#DigitalProjects {
+  text-align: center;
+}
+.picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%
+}
